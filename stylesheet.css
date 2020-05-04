@@ -1,0 +1,87 @@
+.footer {
+    position: fixed;
+    width: 100%;
+    color: darkcyan;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+.edit1{
+    background-image: linear-gradient(to right, darkseagreen, lightgoldenrodyellow);
+}
+
+.edit2{
+    text-align: center;
+    color:blanchedalmond;
+    font-family: "American Typewriter", fantasy;
+}
+
+.edit3{
+    color:mediumpurple;
+    font-family: Courier, serif;
+}
+
+.edit4{
+    color: darkslategray;
+    text-align: center;
+    width: 100%;
+
+
+
+
+}
+
+.edit5{
+    background-image: linear-gradient(to right, cornsilk, lightsalmon);
+    width: auto;
+    height: auto;
+    align-content: center;
+}
+
+.edit6{
+    color: darkslategray;
+    font-family: Copperplate, serif;
+    text-align: center;
+}
+
+.edit7{
+    color: darkblue;
+    font-size: large;
+    width: 100%;
+
+}
+
+.edit8{
+
+    background-color: blanchedalmond;
+    font-size: large;
+    text-align: center;
+
+
+}
+
+.edit9{
+    width: 0%;
+    height: auto;
+    align-content: center;
+
+
+}
+
+.edit10{
+    width: 100%;
+    align-content: center;
+
+}
+
+.edit11{
+    color: #717171;
+    font-size: small;
+    text-align: center;
+    width: 100%;
+
+}
